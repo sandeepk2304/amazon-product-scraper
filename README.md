@@ -1,2 +1,2 @@
 # amazon-product-scraper
-Scrap Product Information from Amazon
+Scrap Best Selling Product From Amazon
